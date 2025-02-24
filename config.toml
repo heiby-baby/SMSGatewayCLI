@@ -1,0 +1,3 @@
+address = "http://localhost:4010/send_sms"
+username = "heiby"
+password = "1234"
