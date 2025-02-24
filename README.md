@@ -29,8 +29,8 @@ python main.py <sender> <receiver> <message>
 ```
 
 4. Для запуска тестов
-   ```
-   python -m pytest test_SMSGateway.py
-   ```
+```
+python -m pytest test_SMSGateway.py
+```
    
    
